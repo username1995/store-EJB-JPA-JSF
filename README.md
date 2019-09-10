@@ -1,0 +1,1 @@
+# store-EJB-JPA-JSF
